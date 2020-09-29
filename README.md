@@ -34,12 +34,11 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
+### Github Stats
 
  [![Justin's github stats](https://github-readme-stats.vercel.app/api?username=koolachoo)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+
 
 <br />
 
